@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="TOP_CENTER" prefHeight="331.0" prefWidth="202.0" spacing="10.0"
+      xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.virginia.cs.gui.WordleController">
+    <padding>
+        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+    </padding>
+    <Text stroke="BLACK" text="Wordle">
+        <font>
+            <Font name="Helvetica Neue" size="22.0" />
+        </font>
+    </Text>
+    <GridPane fx:id = "wordleGuesses" ></GridPane>
+    <GridPane fx:id = "bottomHalf" ></GridPane>
+</VBox>
