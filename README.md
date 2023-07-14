@@ -22,7 +22,7 @@ I used `Java`, `JavaFX GUI`, and `Gradle`
 ## Setup
 - create a Gradle project and install all JavaFX dependencies
 - download or clone the repository
-- run `WordleApplication.java
+- run `WordleApplication.java`
 
 
 ## Approach
