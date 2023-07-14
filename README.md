@@ -17,7 +17,7 @@ Java Clone of the web-based game _Wordle_
 
 
 ## Technologies
-I used `Java`, `JavaFXGUI`, and `Gradle`
+I used `Java`, `JavaFX GUI`, and `Gradle`
 
 ## Setup
 - create a Gradle project and install all JavaFX dependencies
