@@ -27,7 +27,7 @@ I used `Java`, `JavaFXGUI`, and `Gradle`
 
 ## Approach
   1. **Requirements:** I identified the required components for the project, such as the game board, word dictionary, player data, and more.
-  2. **Design:** I organized the program functionalities into various classes. Instances of classes were used in other classes to utilize Java's OOP features. For instance, individual letters and words were saved as objects, making it easier to perform operations on them.
+  2. **Design:** I organized the program functionalities into various classes. Instances of classes were used in other classes to utilize Java's OOP features. For instance, individual letters and words were saved as objects, making it easier to perform operations on them (checking if the word is correct and determining letter color result).
   3. **Implementation:** The rules of the Wordle game were first implemented in the classes and tested in the _console_. Then, the Java GUI was created which used the same game rule implementation created earlier. Therefore, the user can play the game in both the Command Line and GUI formats.
 
 ## Status
